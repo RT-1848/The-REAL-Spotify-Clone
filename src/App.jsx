@@ -2,7 +2,11 @@ import React from 'react'
 
 export const App = () => {
   return (
-    <div>App</div>
+    <div className='h-screen bg-black'>
+      <div className='h-[90%] flex'>
+
+    </div>
+    </div>
   )
 }
 

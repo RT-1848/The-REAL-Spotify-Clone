@@ -9,6 +9,10 @@ const Sidebar = () => {
                 <img className='w-6' src={assets.home_icon} />
                 <p className='font-bold'>Home</p>
             </div>
+            <div className='flex items-center gap-3 pl-8 cursor-pointer'>
+                <img className='w-6' src={assets.search_icon} />
+                <p className='font-bold'>Search</p>
+            </div>
         </div>
     </div>
   )
